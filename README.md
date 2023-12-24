@@ -1,1 +1,1 @@
-# dog-cat-image-prediction
+# adidas-nike-image-prediction
